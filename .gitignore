@@ -1,3 +1,7 @@
 # ignore checkpoint file and datasets folder
+<<<<<<< HEAD
 */*.ipynb
+=======
+.ipynb_checkpoints/
+>>>>>>> 03fe74a984ed5f8bb6fdd00a2241301dd155af34
 datasets/
